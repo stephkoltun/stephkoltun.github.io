@@ -28,6 +28,8 @@
 
 <body>
 
+    <img src='http://making-the-internet.s3.amazonaws.com/php-phpiggy-bank.png' alt='PHPiggy Bank Logo'>
+
     <p>
      You have $<?php echo $total; ?> in your piggy bank.
     </p>
